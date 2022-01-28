@@ -4,6 +4,9 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
