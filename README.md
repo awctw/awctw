@@ -1,7 +1,11 @@
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awctw&" alt="awctw" /></p>
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=awctw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="awctw" />
+</p>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+<img src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" alt="Cat Girl GIF by Pluralsight" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+</div>
 <!--
 **awctw/awctw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
