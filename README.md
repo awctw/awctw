@@ -1,7 +1,7 @@
 
 <p dir="auto">
-  <img height: "80px" src="https://github-readme-streak-stats.herokuapp.com?user=awctw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" style="width: 49.5%;"/>
-  <img height: "80px" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" style="width: 49.5%;" />
+  <img height: "80px" src="https://github-readme-streak-stats.herokuapp.com?user=awctw&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" style="width: 49.5% !important;"/>
+  <img height: "80px" src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611e4b3dd4e9f7d478e006635e3dec2bb84323f1427&amp;rid=giphy.gif&amp;ct=g" style="width: 49.5% !important;" />
 </p>
 
 
