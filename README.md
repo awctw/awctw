@@ -1,6 +1,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awctw&" alt="awctw" /></p>
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <!--
 **awctw/awctw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
