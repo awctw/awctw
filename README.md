@@ -8,4 +8,7 @@
 <p> This Week I Spent My Time On: </p>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   18 mins         █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
