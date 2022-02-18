@@ -44,10 +44,10 @@ Hi there, I'm Annabelle Wang
 
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 42 mins
+Total: 4 hrs 6 mins
 
-JavaScript   5 hrs 30 mins   ████████████████████████░   96.50 % 
-CSS          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JavaScript   3 hrs 54 mins   ███████████████████████▓░   95.15 % 
+CSS          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 <!--END_SECTION:waka-->
 </p>
