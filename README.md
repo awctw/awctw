@@ -35,20 +35,3 @@ Hi there, I'm Annabelle Wang
 <br />
 <br />
 <br />
-
-
-
-<p>
-  <g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>
-<strong> This Week I Spent My Time On: </strong>
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   4 hrs 24 mins   █████████████████████▒░░░   85.86 % 
-CSS          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-```
-<!--END_SECTION:waka-->
-</p>
