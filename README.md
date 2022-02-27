@@ -44,11 +44,11 @@ Hi there, I'm Annabelle Wang
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 32 mins   ██████████████████████▒░░   89.42 % 
-Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JavaScript   4 hrs 24 mins   █████████████████████▒░░░   85.86 % 
+CSS          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 </p>
